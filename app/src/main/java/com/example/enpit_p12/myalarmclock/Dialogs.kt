@@ -43,7 +43,6 @@ class SimpleAlertDialog : DialogFragment() {
     }
 }
 
-
 class DatePickerFragment : DialogFragment(),
         DatePickerDialog.OnDateSetListener {
 
